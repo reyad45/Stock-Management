@@ -1,0 +1,24 @@
+F:\projects\c# projects\StockManagement\StockManagement\bin\StockManagement.dll.config
+F:\projects\c# projects\StockManagement\StockManagement\bin\StockManagement.dll
+F:\projects\c# projects\StockManagement\StockManagement\bin\StockManagement.pdb
+F:\projects\c# projects\StockManagement\StockManagement\obj\Debug\StockManagement.csprojResolveAssemblyReference.cache
+F:\projects\c# projects\StockManagement\StockManagement\obj\Debug\StockManagement.dll
+F:\projects\c# projects\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\projects\c# projects\StockManagement\StockManagement\bin\StockManagement.dll.config
+D:\projects\c# projects\StockManagement\StockManagement\bin\StockManagement.dll
+D:\projects\c# projects\StockManagement\StockManagement\bin\StockManagement.pdb
+D:\projects\c# projects\StockManagement\StockManagement\obj\Debug\StockManagement.dll
+D:\projects\c# projects\StockManagement\StockManagement\obj\Debug\StockManagement.pdb
+D:\projects\c# projects\StockManagement\StockManagement\obj\Debug\StockManagement.csprojResolveAssemblyReference.cache
+D:\StockManagement-master\StockManagement-master\StockManagement\bin\StockManagement.dll.config
+D:\StockManagement-master\StockManagement-master\StockManagement\bin\StockManagement.dll
+D:\StockManagement-master\StockManagement-master\StockManagement\bin\StockManagement.pdb
+D:\StockManagement-master\StockManagement-master\StockManagement\obj\Debug\StockManagement.csprojResolveAssemblyReference.cache
+D:\StockManagement-master\StockManagement-master\StockManagement\obj\Debug\StockManagement.dll
+D:\StockManagement-master\StockManagement-master\StockManagement\obj\Debug\StockManagement.pdb
+D:\Dot net C#\Project\StockManagement-master\StockManagement\bin\StockManagement.dll.config
+D:\Dot net C#\Project\StockManagement-master\StockManagement\bin\StockManagement.dll
+D:\Dot net C#\Project\StockManagement-master\StockManagement\bin\StockManagement.pdb
+D:\Dot net C#\Project\StockManagement-master\StockManagement\obj\Debug\StockManagement.csprojResolveAssemblyReference.cache
+D:\Dot net C#\Project\StockManagement-master\StockManagement\obj\Debug\StockManagement.dll
+D:\Dot net C#\Project\StockManagement-master\StockManagement\obj\Debug\StockManagement.pdb
